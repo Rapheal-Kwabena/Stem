@@ -10,7 +10,7 @@ export default function StepworthWebsite() {
       {/* Header */}
       <header className="bg-gradient-to-r from-orange-400 via-pink-500 to-purple-600 text-white p-6 flex justify-between items-center">
         <div className="flex items-center space-x-4">
-          <img src="/mnt/data/465066b2-2bd7-4ab3-a302-d3714b944fe4.png" alt="Stepworth Logo" className="h-12 w-auto" />
+          <img src="Logo.png" alt="Stepworth Logo" className="h-12 w-auto" />
           <h1 className="text-2xl font-bold">STEPWORTH LIMITED</h1>
         </div>
         <nav className="space-x-6">
